@@ -18,6 +18,7 @@ Our system automates the extraction of educational goals from academic textbooks
 3. **Install dependencies:**
   ```bash
   pip install -r requirements.txt
+  ```
 4. **Execute the scripts**:
    -To extract goals: extract_goals_gemini_translated.py
    -To generate graphs: generate_gore_graphs_translated.py
