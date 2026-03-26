@@ -1,0 +1,7 @@
+pandas
+google-generativeai
+networkx
+graphviz
+unidecode
+openai
+python-dotenv
